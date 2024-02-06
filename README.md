@@ -8,3 +8,7 @@ Check out my Demo [here](https://tekkyneko.github.io/PacMenExercise/) or
 - Go to pages and set it the branch to main at root
 - go to `your_username`.github.io/PacMenExercise
 - Done!
+
+
+TODO:
+Make the PacMen animate while moving
