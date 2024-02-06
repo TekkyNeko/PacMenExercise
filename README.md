@@ -10,5 +10,5 @@ Check out my Demo [here](https://tekkyneko.github.io/PacMenExercise/) or
 - Done!
 
 
-TODO:
+## TODO
 Make the PacMen animate while moving
